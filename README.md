@@ -10,9 +10,8 @@
   <div align="center">
           
 <img src="https://i.pinimg.com/originals/70/a0/c8/70a0c8ff8fc47f72e3870aaaf0ee1db1.gif" width="150">
-          
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1DdXKTV/hearts-divider.gif" alt="hearts divider" border="0"></a> *2nd Year CS Student* <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1DdXKTV/hearts-divider.gif" alt="hearts divider" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1DdXKTV/hearts-divider.gif" alt="hearts divider" border="0"></a> *prettiest coder in the morgue* <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1DdXKTV/hearts-divider.gif" alt="hearts divider" border="0"></a>
+*2nd Year CS Student* 
+*prettiest coder in the morgue* 
 
 
   
