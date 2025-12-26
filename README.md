@@ -9,8 +9,10 @@
   
   <div align="center">
           
-<img src="https://i.pinimg.com/originals/70/a0/c8/70a0c8ff8fc47f72e3870aaaf0ee1db1.gif" width="150">
+
+
 *2nd Year CS Student* 
+
 *prettiest coder in the morgue* 
 
 
