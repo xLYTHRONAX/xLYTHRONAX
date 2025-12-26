@@ -6,9 +6,6 @@
 
 ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ (っ҂ཀ•)っ **SAMMY** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
-  
-  <div align="center">
-          
 
 
 *2nd Year CS Student* 
@@ -20,8 +17,7 @@
 ![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)
 
 ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **🕸 ABOUT 🕸** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
-<div align="left">
-  
+
 **Location:** Morocco  
 **Summon Me:** [k.samir@esisa.ac.ma](mailto:k.samir@esisa.ac.ma)  
 **Status:** half dead but still coding  
