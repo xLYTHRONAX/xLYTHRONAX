@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a>
   
 <a href="https://ibb.co/wF1kpQnG"><img src="https://i.ibb.co/DHnJwMBc/welcome.gif" alt="welcome" border="0"></a>
 
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ (っ҂ཀ•)っ **SAMMY** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ (っ҂ཀ•)っ **SAMMY** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
   
   <div align="center">
@@ -18,7 +18,7 @@
   
 ![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **🕸 ABOUT 🕸** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **🕸 ABOUT 🕸** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 <div align="left">
   
 **Location:** Morocco  
@@ -31,7 +31,7 @@
 
 ![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **☣︎ SKILLS ☣︎** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **☣︎ SKILLS ☣︎** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />
@@ -52,12 +52,12 @@
 
 ## 🕸️ FIND ME IN THE VOID 🕸️
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄<a href="https://www.github.com/xlythronax" target="_blank">
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄<a href="https://www.github.com/xlythronax" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=8B0000" />
 </a>
 <a href="https://www.linkedin.com/in/kawtar-samir" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1a1a&labelColor=8B0000" />
-</a>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+</a>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 <img src="https://i.pinimg.com/originals/92/0d/5d/920d5d7e531c3cbf21937e9be8d5debb.gif" width="250">
 
@@ -78,7 +78,7 @@
 
 <img src="https://i.pinimg.com/originals/70/a0/c8/70a0c8ff8fc47f72e3870aaaf0ee1db1.gif" width="150">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SXcBPSBh/skull-divider.gif" alt="skull divider" border="0"></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xlythronax&color=8B0000&style=for-the-badge&label=SOULS+VISITING)
 
