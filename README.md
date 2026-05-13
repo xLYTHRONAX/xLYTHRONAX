@@ -4,7 +4,7 @@
 <a href="https://ibb.co/wF1kpQnG"><img src="https://i.ibb.co/DHnJwMBc/welcome.gif" alt="welcome" border="0"></a>
 
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ (っ҂ཀ•)っ **SAMMY** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘☠︎︎ (っ҂ཀ•)っ **SAMMY** ☠︎︎⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
 
 
@@ -16,7 +16,7 @@
   
 ![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **🕸 ABOUT 🕸** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **🕸 ABOUT 🕸** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
 **Location:** Morocco  
 **Summon Me:** [k.samir@esisa.ac.ma](mailto:k.samir@esisa.ac.ma)  
@@ -28,7 +28,7 @@
 
 ![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)![divider](https://proxy.everskies.com/a/https://cdn.everskies.com/media/attachment/PuNSBS5exvtVDfWPKyFg.gif)
 
-☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **☣︎ SKILLS ☣︎** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
+☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **☣︎ SKILLS ☣︎** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />
