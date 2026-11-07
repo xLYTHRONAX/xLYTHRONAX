@@ -31,30 +31,29 @@
 ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎ **☣︎ SKILLS ☣︎** ☠︎︎⫘⫘⫘⫘⫘⫘⫘⫘☠︎︎
 
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" height="50" alt="Arduino" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="50" height="50" alt="Ubuntu" />
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="50" height="50" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="50" height="50" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="50" height="50" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="50" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="50" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="50" height="50" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="50" height="50" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="50" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="50" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="50" height="50" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="50" height="50" /></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="50" height="50" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="50" height="50" /></a>
 
-
+  <img src="https://cdn.simpleicons.org/c/808080" width="50" height="50" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/808080" width="50" height="50" alt="C++" />
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/devicon-plain/csharp.svg?color=%23808080" alt="C#" title="C#" width="50" height="50" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dotnet/808080" alt=".NET" title=".NET" width="50" height="50" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk/808080" alt="Java" title="Java" width="50" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/808080" alt="Python" title="Python" width="50" height="50" /></a>
+  <img src="https://cdn.simpleicons.org/php/808080" width="50" height="50" alt="PHP" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5/808080" alt="HTML5" title="HTML5" width="50" height="50" /></a>
+  <img src="https://cdn.simpleicons.org/css/808080" width="50" height="50" alt="CSS3" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/808080" alt="React" title="React" width="50" height="50" /></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/angular/808080" alt="Angular" title="Angular" width="50" height="50" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/808080" alt="NodeJS" title="NodeJS" width="50" height="50" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/808080" alt="Express" title="Express" width="50" height="50" /></a>
+  <img src="https://cdn.simpleicons.org/mysql/808080" width="50" height="50" alt="MySQL" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb/808080" alt="MongoDB" title="MongoDB" width="50" height="50" /></a>
+  <img src="https://cdn.simpleicons.org/arduino/808080" width="50" height="50" alt="Arduino" />
+  <img src="https://cdn.simpleicons.org/linux/808080" width="50" height="50" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/ubuntu/808080" width="50" height="50" alt="Ubuntu" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/808080" alt="GNU Bash" title="GNU Bash" width="50" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/808080" alt="Git" title="Git" width="50" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma/808080" alt="Figma" title="Figma" width="50" height="50" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/blender/808080" alt="Blender" title="Blender" width="50" height="50" /></a>
 </p>
 
 <img src="https://i.pinimg.com/originals/c3/61/1d/c3611de55ebf8d135d44c0118c518d82.gif" width="200">
